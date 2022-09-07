@@ -14,6 +14,15 @@ My name is Madelyn
     > Create a repository(name same or simular of local project)
     > Go back to local git repo, add remote,change mster branch,
     >copy code from github paste to terminal.
+    > git push -u origin main
+
+--- Working repository:
+    --Local
+    >if this is a new feature:
+    >> git checkout -b <branch-name>
+    >Development
+    > git add .
+    > git commit -m "Explicit but short message on what you did"
 
 **Helpful
 > git status
