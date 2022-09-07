@@ -1,1 +1,19 @@
 My name is Madelyn
+
+
+
+***Work flow
+- New repo:
+----Local
+    >git init
+    >Worked on our changes
+    >git add . 
+    > git commit -m "inital commit"
+    --Remote (Github)
+    >Login
+    > Create a repository(name same or simular of local project)
+    > Go back to local git repo, add remote,change mster branch,
+    >copy code from github paste to terminal.
+
+**Helpful
+> git status
