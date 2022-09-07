@@ -24,5 +24,10 @@ My name is Madelyn
     > git add .
     > git commit -m "Explicit but short message on what you did"
     > git push -u origin <branch-name>
+
+> Current feature:
+ - git add . 
+ - git commit -m "<message>"
+ - git push
 **Helpful
 > git status
