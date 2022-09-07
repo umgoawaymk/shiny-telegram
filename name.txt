@@ -1,1 +1,33 @@
 My name is Madelyn
+
+
+
+***Work flow
+- New repo:
+----Local
+    >git init
+    >Worked on our changes
+    >git add . 
+    > git commit -m "inital commit"
+    --Remote (Github)
+    >Login
+    > Create a repository(name same or simular of local project)
+    > Go back to local git repo, add remote,change mster branch,
+    >copy code from github paste to terminal.
+    > git push -u origin main
+
+--- Working repository:
+    --Local
+    >if this is a new feature:
+    >> git checkout -b <branch-name>
+    >Development
+    > git add .
+    > git commit -m "Explicit but short message on what you did"
+    > git push -u origin <branch-name>
+
+> Current feature:
+ - git add . 
+ - git commit -m "<message>"
+ - git push
+**Helpful
+> git status
