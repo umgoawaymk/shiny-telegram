@@ -23,6 +23,6 @@ My name is Madelyn
     >Development
     > git add .
     > git commit -m "Explicit but short message on what you did"
-
+    > git push -u origin <branch-name>
 **Helpful
 > git status
